@@ -1,4 +1,6 @@
-## This repository is archived.
+### this is a forked copy, only the original is archived plus this could accept issues and pull requests unlike the original
+---
+## This repository is archived. (not true about the fork, skip this)
 
 This repository is archived and will not receive any updates or accept issues or pull requests.
 
